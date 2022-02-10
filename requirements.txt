@@ -1,4 +1,4 @@
 pandas
 scikit-learn==0.22
-django==2.2
+django==2.2.27
 gunicorn
